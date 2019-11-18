@@ -20,11 +20,21 @@
         <item name="android:textSize">18sp</item>
     </style>
 
-    <style name="buttonStyle">
+    <style name="buttonStyleBig">
         <item name="android:background">@drawable/button_fondo</item>
         <item name="android:textColor">@color/colorAzulOscuro</item>
         <item name="android:textSize">30sp</item>
     </style>
+
+    <style name="buttonStyle">
+        <item name="android:background">@drawable/button_fondo</item>
+        <item name="android:textColor">@color/colorAzulOscuro</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+
+
+
 
 
 

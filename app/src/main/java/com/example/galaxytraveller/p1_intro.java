@@ -14,13 +14,13 @@ public class p1_intro extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.p1_intro);
 
-        Button p1_buttonComenzar = (Button) findViewById(R.id.p1_buttonComenzar);
+        Button p1_buttonEmpezar = (Button) findViewById(R.id.p1_buttonEmpezar);
 
-        p1_buttonComenzar.setOnClickListener(new View.OnClickListener() {
+        p1_buttonEmpezar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent p1_buttonComenzar = new Intent(p1_intro.this, p2_start.class);
-                startActivity(p1_buttonComenzar);
+                Intent p1_buttonEmpezar = new Intent(p1_intro.this, p2_start.class);
+                startActivity(p1_buttonEmpezar);
             }
 
         });
