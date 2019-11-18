@@ -71,8 +71,8 @@
             android:textColor="@color/colorAmarillo" />
 
         <Button
-            android:id="@+id/p1_buttonComenzar"
-            style="@style/buttonStyle"
+            android:id="@+id/p1_buttonEmpezar"
+            style="@style/buttonStyleBig"
             android:layout_width="250dp"
             android:layout_height="80dp"
             android:layout_gravity="bottom"
