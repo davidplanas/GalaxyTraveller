@@ -14,4 +14,7 @@
     <string name="button_Inicio">INICIO</string>
     <string name="button_PersonPj">PERSONALIZAR PERSONAJE</string>
     <string name="button_Ranking">RANKING</string>
+    <string name="button_DifBaja">DIFICULTAD BAJA</string>
+    <string name="button_DifMedia">DIFICULTAD MEDIA</string>
+    <string name="button_DifAlta">DIFICULTAD ALTA</string>
 </resources>

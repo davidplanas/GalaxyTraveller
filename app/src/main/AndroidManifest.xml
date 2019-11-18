@@ -17,6 +17,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".p2_start" android:screenOrientation="landscape"/>
+        <activity android:name=".p3_dificultad" android:screenOrientation="landscape"/>
     </application>
 
 </manifest>
