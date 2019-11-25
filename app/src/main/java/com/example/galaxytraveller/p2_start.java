@@ -17,6 +17,7 @@ public class p2_start extends AppCompatActivity {
 
         Button p2_buttonInicio = (Button) findViewById(R.id.p2_buttonInicio);
         Button p2_buttonJugar = (Button) findViewById(R.id.p2_buttonJugar);
+        Button p2_buttonRanking = (Button) findViewById(R.id.p2_buttonRanking);
 
         p2_buttonInicio.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -35,6 +36,17 @@ public class p2_start extends AppCompatActivity {
             }
 
         });
+
+        /*
+        p2_buttonRanking.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent p2_buttonRanking = new Intent(p2_start.this, ranking.class);
+                startActivity(ranking);
+            }
+
+        });
+        */
 
 
 
