@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:background="@drawable/fondo_app2"
+    tools:context=".p2_start">
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_weight="1">
+
+        <ImageView
+            android:layout_width="280dp"
+            android:layout_height="280dp"
+            android:contentDescription="@string/desc"
+            android:src="@drawable/logo" />
+
+        <Button
+            android:id="@+id/p2_buttonJugar"
+            style="@style/buttonStyleBig"
+            android:layout_width="250dp"
+            android:layout_height="80dp"
+            android:layout_gravity="bottom"
+            android:layout_marginLeft="20dp"
+            android:layout_marginBottom="5dp"
+            android:text="@string/button_Jugar"/>
+
+        <Button
+            android:id="@+id/p1_buttonAyuda"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:layout_gravity="bottom"
+            android:background="@android:color/transparent"
+            android:text="@string/button_Ayuda"
+            android:textColor="@color/colorAmarillo" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_weight="1">
+
+        <Button
+            android:id="@+id/language_english"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_toStartOf="@+id/language_catalan"
+            android:layout_toLeftOf="@+id/language_catalan"
+            android:background="@drawable/english_icon" />
+
+        <Button
+            android:id="@+id/language_catalan"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_toStartOf="@+id/language_spanish"
+            android:layout_toLeftOf="@+id/language_spanish"
+            android:background="@drawable/catalan_icon" />
+
+        <Button
+            android:id="@+id/language_spanish"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/spanish_icon" />
+
+        <Button
+            android:id="@+id/p2_buttonInicio"
+            style="@style/buttonStyle"
+            android:layout_width="180dp"
+            android:layout_height="70dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="100dp"
+            android:text="@string/button_Inicio" />
+
+        <Button
+            android:id="@+id/p2_buttonPersonPj"
+            style="@style/buttonStyle"
+            android:layout_width="360dp"
+            android:layout_height="70dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="180dp"
+            android:text="@string/button_PersonPj" />
+
+        <Button
+            android:id="@+id/p2_buttonRanking"
+            style="@style/buttonStyle"
+            android:layout_width="180dp"
+            android:layout_height="70dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="260dp"
+            android:text="@string/button_Ranking" />
+
+    </RelativeLayout>
+
+</LinearLayout>
