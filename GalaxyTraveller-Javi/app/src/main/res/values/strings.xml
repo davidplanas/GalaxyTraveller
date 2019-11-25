@@ -1,0 +1,27 @@
+<resources>
+    //Pantalla 1
+    <string name="app_name">Galaxy Traveller</string>
+    <string name="button_Ayuda">Ayuda</string>
+    <string name="desc">desc</string>
+    <string name="button_Empezar">EMPEZAR</string>
+    <string name="p1_titulointro">¡Bienvenido/a a Galaxy Traveller!  </string>
+    <string name="p1_introduccion1">En esta aplicación podrás contestar una serie de preguntas relacionadas con la astronomía.</string>
+    <string name="p1_introduccion2">¡No te asustes! Si no conoces mucho sobre este ámbito, podrás regular la dificultad en función de tus conocimientos.</string>
+    <string name="p1_introduccion3">¡Empieza con esta aventura pulsando el botón que tienes a continuación! </string>
+
+    //Pantalla 2
+    <string name="button_Jugar">JUGAR</string>
+    <string name="button_Inicio">INICIO</string>
+    <string name="button_PersonPj">PERSONALIZAR PERSONAJE</string>
+    <string name="button_Ranking">RANKING</string>
+    <string name="button_DifBaja">DIFICULTAD BAJA</string>
+    <string name="button_DifMedia">DIFICULTAD MEDIA</string>
+    <string name="button_DifAlta">DIFICULTAD ALTA</string>
+
+    //Pantalla 6
+    <string name="Imageview_preguntas">Quina distancia hi ha de aqui a Mart?</string>
+    <string name="resp1">227,9 millones km</string>
+    <string name="resp2">250,9 millones km</string>
+    <string name="resp3">300 millones km</string>
+    <string name="resp4">40 millones km</string>
+</resources>
