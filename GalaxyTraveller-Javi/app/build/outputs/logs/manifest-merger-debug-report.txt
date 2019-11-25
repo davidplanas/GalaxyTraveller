@@ -1,0 +1,150 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\7af9b3499763979263b354eb0d829213\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\da9d6ec80dcf71475086bfe8b12f2e40\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\bd34366ec14c34ac6d2afc9892b34793\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\2e127eb59a2217a4180701db0dae8410\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\795c0ba356d807299fbf6f1758872a5a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\6138a3af0d7b564549709e67645c605f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\a092c091ce87f42e04631830de71881b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\de83d7019bfda45eaedb20f654b92f7d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\73300ab7aaf426d6704b024091a11279\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\fd7f8a5dd5224d95556fa67e4e622d96\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\81b2378a0a3953a474378df897c2e304\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\d3e2c8dc1ccac07dbf1ae0ed49335c5d\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\5e83791b7b7ce68c93ad7b28a448e106\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\98b3825cd531230db057b2b919410ecb\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\df1ccfe6dd2a651b521e08ab27a3bf13\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\a56960e27c125a66636fa2221d7e90b3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\5ec56f80761471683b515eb285034fb7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\11b0dde6144b2c0b753df72e40235bf6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\e366d6f4e424e93fbeb03fad0a23fe08\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\1c99d3afa3080d5c82b7be5aabaec4b6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\7ac974200c72d3b3561a45096ee0a650\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml
+		ADDED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml
+		ADDED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\da9d6ec80dcf71475086bfe8b12f2e40\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\da9d6ec80dcf71475086bfe8b12f2e40\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\d3e2c8dc1ccac07dbf1ae0ed49335c5d\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\d3e2c8dc1ccac07dbf1ae0ed49335c5d\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\98b3825cd531230db057b2b919410ecb\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\98b3825cd531230db057b2b919410ecb\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\d3e2c8dc1ccac07dbf1ae0ed49335c5d\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.galaxytraveller.p1_intro
+ADDED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:screenOrientation
+		ADDED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml:12:44-81
+	android:name
+		ADDED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml:12:19-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.galaxytraveller.p2_start
+ADDED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml:19:9-83
+	android:screenOrientation
+		ADDED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml:19:44-81
+	android:name
+		ADDED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml:19:19-43
+activity#com.example.galaxytraveller.p3_dificultad
+ADDED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml:20:9-88
+	android:screenOrientation
+		ADDED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml:20:49-86
+	android:name
+		ADDED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml:20:19-48
+uses-sdk
+INJECTED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml
+INJECTED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\7af9b3499763979263b354eb0d829213\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\7af9b3499763979263b354eb0d829213\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\da9d6ec80dcf71475086bfe8b12f2e40\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\da9d6ec80dcf71475086bfe8b12f2e40\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\bd34366ec14c34ac6d2afc9892b34793\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\bd34366ec14c34ac6d2afc9892b34793\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\2e127eb59a2217a4180701db0dae8410\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\2e127eb59a2217a4180701db0dae8410\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\795c0ba356d807299fbf6f1758872a5a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\795c0ba356d807299fbf6f1758872a5a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\6138a3af0d7b564549709e67645c605f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\6138a3af0d7b564549709e67645c605f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\a092c091ce87f42e04631830de71881b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\a092c091ce87f42e04631830de71881b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\de83d7019bfda45eaedb20f654b92f7d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\de83d7019bfda45eaedb20f654b92f7d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\73300ab7aaf426d6704b024091a11279\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\73300ab7aaf426d6704b024091a11279\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\fd7f8a5dd5224d95556fa67e4e622d96\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\fd7f8a5dd5224d95556fa67e4e622d96\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\81b2378a0a3953a474378df897c2e304\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\81b2378a0a3953a474378df897c2e304\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\d3e2c8dc1ccac07dbf1ae0ed49335c5d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\d3e2c8dc1ccac07dbf1ae0ed49335c5d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\5e83791b7b7ce68c93ad7b28a448e106\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\5e83791b7b7ce68c93ad7b28a448e106\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\98b3825cd531230db057b2b919410ecb\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\98b3825cd531230db057b2b919410ecb\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\df1ccfe6dd2a651b521e08ab27a3bf13\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\df1ccfe6dd2a651b521e08ab27a3bf13\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\a56960e27c125a66636fa2221d7e90b3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\a56960e27c125a66636fa2221d7e90b3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\5ec56f80761471683b515eb285034fb7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\5ec56f80761471683b515eb285034fb7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\11b0dde6144b2c0b753df72e40235bf6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\11b0dde6144b2c0b753df72e40235bf6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\e366d6f4e424e93fbeb03fad0a23fe08\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\e366d6f4e424e93fbeb03fad0a23fe08\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\1c99d3afa3080d5c82b7be5aabaec4b6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\1c99d3afa3080d5c82b7be5aabaec4b6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\7ac974200c72d3b3561a45096ee0a650\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\cep.CEPNET0\.gradle\caches\transforms-2\files-2.1\7ac974200c72d3b3561a45096ee0a650\AndroidManifest.xml:20:5-44
+INJECTED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml
+INJECTED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml
+		ADDED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml
+		ADDED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml
+		INJECTED from E:\ABP\Android GIT-HUB\GalaxyTraveller-Javi\app\src\main\AndroidManifest.xml

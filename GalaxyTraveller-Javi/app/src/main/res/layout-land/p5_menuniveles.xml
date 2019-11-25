@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:ignore="MissingDefaultResource"
+    android:background="@drawable/fondo_app2">
+
+
+    <Button
+        android:id="@+id/p3_buttonArrowBack"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:background="@drawable/arrow_back" />
+
+    <Button
+        android:id="@+id/p5_botonayuda"
+        style="@style/buttonStyleBig"
+        android:layout_width="193dp"
+        android:layout_height="68dp"
+        android:layout_marginTop="350dp"
+        android:background="@drawable/button_fondo"
+        android:text="@string/button_Ayuda"
+        android:textColor="#0000FF" />
+
+    <Button
+        android:id="@+id/p5_planeta1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/Planeta_num1" />
+
+    <Button
+        android:id="@+id/p5_planeta2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/Planeta_num2" />
+
+    <Button
+        android:id="@+id/p5_planeta3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/Planeta_num3" />
+
+    <Button
+        android:id="@+id/p5_planeta4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/Planeta_num4" />
+
+    <Button
+        android:id="@+id/p5_planeta5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/Planeta_num5" />
+
+    <Button
+        android:id="@+id/p5_planeta6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/Planeta_num6" />
+
+    <Button
+        android:id="@+id/p5_planeta7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/Planeta_num7" />
+
+    <Button
+        android:id="@+id/p5_planeta8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/Planeta_num8" />
+
+    <Button
+        android:id="@+id/p5_planeta9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/Planeta_num9" />
+
+    <Button
+        android:id="@+id/p5_liniasazules"
+        style="@style/buttonStyleBig"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/linias_azules" />
+
+</RelativeLayout>
