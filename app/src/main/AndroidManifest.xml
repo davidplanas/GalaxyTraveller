@@ -18,6 +18,8 @@
         </activity>
         <activity android:name=".p2_start" android:screenOrientation="landscape"/>
         <activity android:name=".p3_dificultad" android:screenOrientation="landscape"/>
+        <activity android:name=".p4_menu_nivelesAdapter" android:screenOrientation="landscape"/>
+        <activity android:name=".p_preguntas" android:screenOrientation="landscape"/>
     </application>
 
 </manifest>
