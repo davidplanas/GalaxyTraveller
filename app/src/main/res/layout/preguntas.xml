@@ -41,13 +41,15 @@
         <Button
             android:layout_width="150dp"
             android:layout_height="57dp"
-            android:background="@drawable/button_fondo3"/>
+            android:background="@drawable/button_fondo3"
+            android:id="@+id/opcio1"/>
 
         <Button
             android:layout_width="150dp"
             android:layout_height="57dp"
             android:background="@drawable/button_fondo3"
-            android:layout_marginLeft="125dp"/>
+            android:layout_marginLeft="125dp"
+            android:id="@+id/opcio2"/>
 
 
     </LinearLayout>
@@ -62,20 +64,17 @@
         <Button
             android:layout_width="150dp"
             android:layout_height="57dp"
-            android:background="@drawable/button_fondo3"/>
+            android:background="@drawable/button_fondo3"
+            android:id="@+id/opcio3"/>
 
         <Button
             android:layout_width="150dp"
             android:layout_height="57dp"
             android:background="@drawable/button_fondo3"
-            android:layout_marginLeft="125dp"/>
+            android:layout_marginLeft="125dp"
+            android:id="@+id/opcio4"/>
 
 
     </LinearLayout>
-
-
-
-
-
 
 </LinearLayout>
