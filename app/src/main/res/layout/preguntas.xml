@@ -31,14 +31,14 @@
         >
 
         <Button
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            >
-        </Button>
+            android:layout_width="85dp"
+            android:layout_height="57dp"
+            android:background="@drawable/button_fondo3"></Button>
 
         <Button
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"></Button>
+            android:layout_width="85dp"
+            android:layout_height="57dp"
+            android:background="@drawable/button_fondo3"></Button>
 
 
     </LinearLayout>
@@ -49,14 +49,14 @@
         android:orientation="horizontal">
 
         <Button
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            >
-        </Button>
+            android:layout_width="85dp"
+            android:layout_height="57dp"
+            android:background="@drawable/button_fondo3"></Button>
 
         <Button
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"></Button>
+            android:layout_width="85dp"
+            android:layout_height="57dp"
+            android:background="@drawable/button_fondo3"></Button>
 
 
     </LinearLayout>
