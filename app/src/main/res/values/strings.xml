@@ -10,7 +10,7 @@
     <string name="p1_introduccion2">¡No te asustes! Si no conoces mucho sobre este ámbito, podrás regular la dificultad en función de tus conocimientos.</string>
     <string name="p1_introduccion3">¡Empieza con esta aventura pulsando el botón que tienes a continuación! </string>
 
-    //Pantalla 2
+    //Pantalla 2 y 3
     <string name="button_Jugar">JUGAR</string>
     <string name="button_Inicio">INICIO</string>
     <string name="button_PersonPj">PERSONALIZAR PERSONAJE</string>
