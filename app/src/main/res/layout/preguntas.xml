@@ -6,20 +6,28 @@
     >
 
     <LinearLayout
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:layout_weight="1"
-        android:orientation="horizontal">
+        android:layout_weight="2"
+        android:orientation="vertical">
 
-        <ImageView
+        <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/pregunta"
+            android:textSize="50dp"
+            android:layout_gravity="right"
+            android:id="@+id/cuentaAtras"
             />
-        <ImageView
-            android:layout_width="wrap_content"
+
+        <TextView
+            android:id="@+id/nomPregunta"
+            android:layout_width="561dp"
             android:layout_height="wrap_content"
-            android:id="@+id/contador"/>
+            android:layout_gravity="center"
+            android:background="@drawable/button_fondo3"
+            android:gravity="center"
+            android:text="Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa" />
+
     </LinearLayout>
 
     <LinearLayout
@@ -27,18 +35,19 @@
         android:layout_height="0dp"
         android:layout_weight="2"
         android:orientation="horizontal"
-
+        android:layout_marginLeft="145dp"
         >
 
         <Button
-            android:layout_width="85dp"
+            android:layout_width="150dp"
             android:layout_height="57dp"
-            android:background="@drawable/button_fondo3"></Button>
+            android:background="@drawable/button_fondo3"/>
 
         <Button
-            android:layout_width="85dp"
+            android:layout_width="150dp"
             android:layout_height="57dp"
-            android:background="@drawable/button_fondo3"></Button>
+            android:background="@drawable/button_fondo3"
+            android:layout_marginLeft="125dp"/>
 
 
     </LinearLayout>
@@ -46,17 +55,20 @@
         android:layout_width="wrap_content"
         android:layout_height="0dp"
         android:layout_weight="2"
-        android:orientation="horizontal">
+        android:orientation="horizontal"
+        android:layout_marginLeft="145dp"
+        >
 
         <Button
-            android:layout_width="85dp"
+            android:layout_width="150dp"
             android:layout_height="57dp"
-            android:background="@drawable/button_fondo3"></Button>
+            android:background="@drawable/button_fondo3"/>
 
         <Button
-            android:layout_width="85dp"
+            android:layout_width="150dp"
             android:layout_height="57dp"
-            android:background="@drawable/button_fondo3"></Button>
+            android:background="@drawable/button_fondo3"
+            android:layout_marginLeft="125dp"/>
 
 
     </LinearLayout>
