@@ -23,7 +23,7 @@
             android:id="@+id/p2_buttonJugar"
             style="@style/buttonStyleBig"
             android:layout_width="250dp"
-            android:layout_height="80dp"
+            android:layout_height="50dp"
             android:layout_gravity="bottom"
             android:layout_marginLeft="20dp"
             android:layout_marginBottom="5dp"
@@ -86,7 +86,7 @@
             android:id="@+id/p2_buttonInicio"
             style="@style/buttonStyle"
             android:layout_width="180dp"
-            android:layout_height="70dp"
+            android:layout_height="50dp"
             android:layout_centerHorizontal="true"
             android:layout_marginTop="100dp"
             android:text="@string/button_Inicio" />
@@ -95,7 +95,7 @@
             android:id="@+id/p2_buttonPersonPj"
             style="@style/buttonStyle"
             android:layout_width="360dp"
-            android:layout_height="70dp"
+            android:layout_height="50dp"
             android:layout_centerHorizontal="true"
             android:layout_marginTop="180dp"
             android:text="@string/button_PersonPj" />
@@ -104,7 +104,7 @@
             android:id="@+id/p2_buttonRanking"
             style="@style/buttonStyle"
             android:layout_width="180dp"
-            android:layout_height="70dp"
+            android:layout_height="50dp"
             android:layout_centerHorizontal="true"
             android:layout_marginTop="260dp"
             android:text="@string/button_Ranking" />
