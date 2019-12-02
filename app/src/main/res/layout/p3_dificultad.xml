@@ -10,28 +10,28 @@
     <Button
         android:id="@+id/p3_buttonDifBaja"
         style="@style/buttonStyleBig"
-        android:layout_width="500dp"
+        android:layout_width="550dp"
         android:layout_height="100dp"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="60dp"
+        android:layout_marginTop="100dp"
         android:text="@string/button_DifBaja" />
 
     <Button
         android:id="@+id/p3_buttonDifMedia"
         style="@style/buttonStyleBig"
-        android:layout_width="500dp"
+        android:layout_width="550dp"
         android:layout_height="100dp"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="160dp"
+        android:layout_marginTop="300dp"
         android:text="@string/button_DifMedia" />
 
     <Button
         android:id="@+id/p3_buttonDifAlta"
         style="@style/buttonStyleBig"
-        android:layout_width="500dp"
+        android:layout_width="550dp"
         android:layout_height="100dp"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="260dp"
+        android:layout_marginTop="500dp"
         android:text="@string/button_DifAlta" />
 
     <Button
@@ -39,7 +39,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="@android:color/transparent"
-        android:layout_marginTop="355dp"
+        android:layout_marginTop="610dp"
+        android:textSize="25sp"
         android:text="@string/button_Ayuda"
         android:textColor="@color/colorAmarillo" />
 

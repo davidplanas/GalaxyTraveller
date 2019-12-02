@@ -12,24 +12,24 @@
 
     <style name="textTittleStyle">
         <item name="android:textColor">@color/colorAmarillo</item>
-        <item name="android:textSize">25sp</item>
+        <item name="android:textSize">50sp</item>
     </style>
 
     <style name="textStyle">
         <item name="android:textColor">@color/colorAmarillo</item>
-        <item name="android:textSize">18sp</item>
+        <item name="android:textSize">36sp</item>
     </style>
 
     <style name="buttonStyleBig">
         <item name="android:background">@drawable/button_fondo3</item>
         <item name="android:textColor">@color/colorAzulOscuro</item>
-        <item name="android:textSize">30sp</item>
+        <item name="android:textSize">60sp</item>
     </style>
 
     <style name="buttonStyle">
         <item name="android:background">@drawable/button_fondo3</item>
         <item name="android:textColor">@color/colorAzulOscuro</item>
-        <item name="android:textSize">18sp</item>
+        <item name="android:textSize">36sp</item>
     </style>
 
 
