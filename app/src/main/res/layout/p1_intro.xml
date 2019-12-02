@@ -8,16 +8,45 @@
     tools:context=".p1_intro">
 
     <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/language_english"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/english_icon" />
+
+        <Button
+            android:id="@+id/language_catalan"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/catalan_icon" />
+
+        <Button
+            android:id="@+id/language_spanish"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/spanish_icon" />
+    </LinearLayout>
+
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_weight="0.4"
         android:orientation="horizontal">
 
         <ImageView
-            android:layout_width="280dp"
-            android:layout_height="280dp"
+            android:layout_width="500dp"
+            android:layout_height="500dp"
             android:contentDescription="@string/desc"
             android:src="@drawable/logo" />
+
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
@@ -25,6 +54,7 @@
             android:orientation="vertical">
 
             <TextView
+                android:id="@+id/textView_titulo"
                 style="@style/textTittleStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -32,24 +62,27 @@
 
                 android:text="@string/p1_titulointro"/>
             <TextView
+                android:id="@+id/textView_desc1"
                 style="@style/textStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="20dp"
+                android:layout_marginTop="40dp"
                 android:layout_marginRight="20dp"
                 android:text="@string/p1_introduccion1"/>
             <TextView
+                android:id="@+id/textView_desc2"
                 style="@style/textStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="20dp"
+                android:layout_marginTop="40dp"
                 android:layout_marginRight="20dp"
                 android:text="@string/p1_introduccion2"/>
             <TextView
+                android:id="@+id/textView_desc3"
                 style="@style/textStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="20dp"
+                android:layout_marginTop="40dp"
                 android:layout_marginRight="20dp"
                 android:text="@string/p1_introduccion3"/>
         </LinearLayout>
@@ -67,17 +100,18 @@
             android:layout_height="wrap_content"
             android:layout_gravity="bottom"
             android:background="@android:color/transparent"
+            android:textSize="25sp"
             android:text="@string/button_Ayuda"
             android:textColor="@color/colorAmarillo" />
 
         <Button
             android:id="@+id/p1_buttonEmpezar"
             style="@style/buttonStyleBig"
-            android:layout_width="250dp"
-            android:layout_height="60dp"
+            android:layout_width="380dp"
+            android:layout_height="80dp"
             android:layout_gravity="bottom"
-            android:layout_marginLeft="390dp"
-            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="700dp"
+            android:layout_marginBottom="10dp"
             android:text="@string/button_Empezar"/>
 
     </LinearLayout>
